@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615277557 source:c:\.tayfun\c++\(kaan) c ve c++\83.selection sort(seçimli sýralama)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

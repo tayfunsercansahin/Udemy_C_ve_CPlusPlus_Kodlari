@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615285299 source:c:\.tayfun\c++\(kaan) c ve c++\88.bir serinin İlk 50 terimini hesaplayıp ekrana yazdır\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

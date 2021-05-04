@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615058777 source:c:\.tayfun\c++\(kaan) c ve c++\53.1-10000 arasýndaki mükemmel sayýlar fonksiyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

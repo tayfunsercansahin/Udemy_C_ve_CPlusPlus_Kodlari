@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614865044 source:c:\.tayfun\c++\(kaan) c ve c++\28.kullanýcýnýn girdiði 2 tam sayýnýn ebob'unu bul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

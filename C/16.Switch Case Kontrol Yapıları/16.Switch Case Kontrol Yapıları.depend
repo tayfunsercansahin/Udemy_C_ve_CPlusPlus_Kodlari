@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614838064 source:c:\.tayfun\c++\(kaan) c ve c++\16.switch case kontrol yapýlarý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

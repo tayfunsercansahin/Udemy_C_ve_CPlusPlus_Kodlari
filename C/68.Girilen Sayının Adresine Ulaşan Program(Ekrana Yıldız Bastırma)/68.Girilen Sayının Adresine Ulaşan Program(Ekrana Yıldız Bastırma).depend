@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615195944 source:c:\.tayfun\c++\(kaan) c ve c++\68.girilen sayýnýn adresine ulaþan program(ekrana yýldýz bastýrma)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

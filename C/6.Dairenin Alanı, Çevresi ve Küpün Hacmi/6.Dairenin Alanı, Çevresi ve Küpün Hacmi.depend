@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614762639 source:c:\.tayfun\c++\(kaan) c ve c++\6.dairenin alaný, Çevresi ve küpün hacmi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

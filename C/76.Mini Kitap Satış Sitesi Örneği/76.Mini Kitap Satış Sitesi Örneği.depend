@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615219737 source:c:\.tayfun\c++\(kaan) c ve c++\76.mini kitap satýþ sitesi Örneði\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

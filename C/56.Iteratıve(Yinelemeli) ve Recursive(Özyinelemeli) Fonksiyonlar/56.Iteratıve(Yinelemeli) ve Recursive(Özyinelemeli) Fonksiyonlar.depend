@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615103713 source:c:\.tayfun\c++\(kaan) c ve c++\56.iteratýve(yinelemeli) ve recursive(Özyinelemeli) fonksiyonlar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

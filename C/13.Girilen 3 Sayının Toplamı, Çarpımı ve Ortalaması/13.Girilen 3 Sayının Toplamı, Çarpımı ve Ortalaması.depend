@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614781406 source:c:\.tayfun\c++\(kaan) c ve c++\13.girilen 3 sayýnýn toplamý, Çarpýmý ve ortalamasý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

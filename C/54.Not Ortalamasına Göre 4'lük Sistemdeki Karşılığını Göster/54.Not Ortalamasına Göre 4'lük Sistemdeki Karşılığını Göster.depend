@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615059962 source:c:\.tayfun\c++\(kaan) c ve c++\54.not ortalamasýna göre 4'lük sistemdeki karþýlýðýný göster\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

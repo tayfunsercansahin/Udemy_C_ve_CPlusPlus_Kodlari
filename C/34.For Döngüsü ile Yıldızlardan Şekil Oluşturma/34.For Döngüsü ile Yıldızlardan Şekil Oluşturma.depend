@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614937489 source:c:\.tayfun\c++\(kaan) c ve c++\34.for döngüsü ile yýldýzlardan Þekil oluþturma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

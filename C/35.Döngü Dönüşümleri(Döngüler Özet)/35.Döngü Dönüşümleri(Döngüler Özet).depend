@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614939145 source:c:\.tayfun\c++\(kaan) c ve c++\35.döngü dönüþümleri(döngüler Özet)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614780240 source:c:\.tayfun\c++\(kaan) c ve c++\12.bir sayýnýn diðer sayýnýn katý olup olmadýðýný bul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615038727 source:c:\.tayfun\c++\(kaan) c ve c++\48.elemanlarý doðal sayý olan bir dizideki en büyük sayýyý bul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615111961 source:c:\.tayfun\c++\(kaan) c ve c++\62.yazýlýmcý tarafýndan hazýrlanan strcat fonksiyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

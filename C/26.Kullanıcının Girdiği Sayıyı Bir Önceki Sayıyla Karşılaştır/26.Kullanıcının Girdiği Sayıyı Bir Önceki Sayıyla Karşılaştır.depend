@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614861948 source:c:\.tayfun\c++\(kaan) c ve c++\26.kullanýcýnýn girdiði sayýyý bir Önceki sayýyla karþýlaþtýr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615113196 source:c:\.tayfun\c++\(kaan) c ve c++\63.yazýlýmcý tarafýndan hazýrlanan strcmp fonksiyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

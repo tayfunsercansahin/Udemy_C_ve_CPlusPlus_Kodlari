@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614846482 source:c:\.tayfun\c++\(kaan) c ve c++\19.restoran menüsü programý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+

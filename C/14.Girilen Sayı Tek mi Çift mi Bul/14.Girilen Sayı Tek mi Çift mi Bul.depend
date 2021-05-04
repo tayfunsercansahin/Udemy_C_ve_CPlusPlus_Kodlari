@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614783260 source:c:\.tayfun\c++\(kaan) c ve c++\14.girilen sayý tek mi Çift mi bul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

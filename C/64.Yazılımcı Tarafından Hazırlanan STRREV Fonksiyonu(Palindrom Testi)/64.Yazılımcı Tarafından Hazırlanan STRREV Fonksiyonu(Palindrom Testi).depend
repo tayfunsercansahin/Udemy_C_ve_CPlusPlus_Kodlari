@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615114270 source:c:\.tayfun\c++\(kaan) c ve c++\64.yazılımcı tarafından hazırlanan strrev fonksiyonu(palindrom testi)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

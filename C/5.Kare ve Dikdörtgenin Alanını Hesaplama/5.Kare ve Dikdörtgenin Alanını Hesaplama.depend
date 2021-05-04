@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614759962 source:c:\.tayfun\c++\(kaan) c ve c++\5.kare ve dikdörtgenin alanýný hesaplama\main.c
+	<stdio.h>
+	<stdlib.h>
+

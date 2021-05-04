@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615034296 source:c:\.tayfun\c++\(kaan) c ve c++\45.fonksiyonlara giriþ\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

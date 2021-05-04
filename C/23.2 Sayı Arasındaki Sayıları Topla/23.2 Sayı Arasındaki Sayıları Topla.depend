@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614853375 source:c:\.tayfun\c++\(kaan) c ve c++\23.2 sayı arasındaki sayıları topla\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

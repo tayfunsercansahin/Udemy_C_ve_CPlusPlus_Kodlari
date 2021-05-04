@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614854804 source:c:\.tayfun\c++\(kaan) c ve c++\24.bir sayýnýn faktöriyelini kontrollü bir Þekilde hesaplamak\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615207491 source:c:\.tayfun\c++\(kaan) c ve c++\72.bir kelimenin palindrom olup olmadýðýný bul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

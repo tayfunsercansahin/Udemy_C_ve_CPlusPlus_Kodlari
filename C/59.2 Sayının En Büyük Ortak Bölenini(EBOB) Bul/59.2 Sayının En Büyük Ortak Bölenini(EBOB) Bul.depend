@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615106230 source:c:\.tayfun\c++\(kaan) c ve c++\59.2 sayýnýn en büyük ortak bölenini(ebob) bul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

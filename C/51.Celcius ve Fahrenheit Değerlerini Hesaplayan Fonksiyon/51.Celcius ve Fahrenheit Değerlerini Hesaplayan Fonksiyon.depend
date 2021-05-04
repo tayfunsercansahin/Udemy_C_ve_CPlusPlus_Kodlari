@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615043987 source:c:\.tayfun\c++\(kaan) c ve c++\51.celcius ve fahrenheit deðerlerini hesaplayan fonksiyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

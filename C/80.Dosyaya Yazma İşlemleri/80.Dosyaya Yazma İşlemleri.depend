@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615273663 source:c:\.tayfun\c++\(kaan) c ve c++\80.dosyaya yazma Ýþlemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

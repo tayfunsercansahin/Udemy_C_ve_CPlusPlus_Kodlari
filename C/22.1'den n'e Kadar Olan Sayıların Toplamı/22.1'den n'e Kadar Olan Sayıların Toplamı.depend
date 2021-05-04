@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614851590 source:c:\.tayfun\c++\(kaan) c ve c++\22.1'den n'e kadar olan sayýlarýn toplamý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

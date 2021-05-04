@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615215532 source:c:\.tayfun\c++\(kaan) c ve c++\74.hafýzada diziler oluþturma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

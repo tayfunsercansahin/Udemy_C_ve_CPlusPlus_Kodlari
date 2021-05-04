@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1616330621 source:d:\.tayfun\c++\(kaan) c ve c++\c++\26.header dosyalarý ve proje Ýçinde kullanýlmasý\main.cpp
+	<iostream>
+	"hayvan.h"
+
+1616330478 source:d:\.tayfun\c++\(kaan) c ve c++\c++\26.header dosyalarý ve proje Ýçinde kullanýlmasý\hayvan.cpp
+	"hayvan.h"
+
+1616330421 d:\.tayfun\c++\(kaan) c ve c++\c++\26.header dosyalarý ve proje Ýçinde kullanýlmasý\hayvan.h
+	<iostream>
+

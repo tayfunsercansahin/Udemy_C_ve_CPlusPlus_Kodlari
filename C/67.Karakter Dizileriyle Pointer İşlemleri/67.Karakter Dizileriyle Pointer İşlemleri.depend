@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615194700 source:c:\.tayfun\c++\(kaan) c ve c++\67.karakter dizileriyle pointer Ýþlemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

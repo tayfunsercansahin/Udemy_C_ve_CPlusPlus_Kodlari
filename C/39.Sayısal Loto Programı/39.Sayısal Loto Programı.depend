@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615009937 source:c:\.tayfun\c++\(kaan) c ve c++\39.sayýsal loto programý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

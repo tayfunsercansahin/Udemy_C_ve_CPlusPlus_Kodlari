@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614886265 source:c:\.tayfun\c++\(kaan) c ve c++\31.bilet satýn alma programý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

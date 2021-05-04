@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615218011 source:c:\.tayfun\c++\(kaan) c ve c++\75.structs(yapýlar) giriþ\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

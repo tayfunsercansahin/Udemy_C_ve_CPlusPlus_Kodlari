@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615713508 source:c:\.tayfun\c++\(kaan) c ve c++\c++\16.pointers(Ýþaretçiler)(stringlerde adres)\main.cpp
+	<iostream>
+	<string.h>
+

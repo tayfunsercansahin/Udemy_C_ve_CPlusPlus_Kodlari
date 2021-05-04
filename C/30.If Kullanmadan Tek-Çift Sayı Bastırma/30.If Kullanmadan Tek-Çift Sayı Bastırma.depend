@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614884028 source:c:\.tayfun\c++\(kaan) c ve c++\30.if kullanmadan tek-Çift sayý bastýrma\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

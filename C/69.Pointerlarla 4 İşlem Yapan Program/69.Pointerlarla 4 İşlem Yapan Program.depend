@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615204665 source:c:\.tayfun\c++\(kaan) c ve c++\69.pointerlarla 4 Ýþlem yapan program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

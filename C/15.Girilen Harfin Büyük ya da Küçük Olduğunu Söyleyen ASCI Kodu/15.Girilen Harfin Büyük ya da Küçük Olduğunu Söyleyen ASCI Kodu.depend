@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614800202 source:c:\.tayfun\c++\(kaan) c ve c++\15.girilen harfin büyük ya da küçük olduðunu söyleyen asci kodu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

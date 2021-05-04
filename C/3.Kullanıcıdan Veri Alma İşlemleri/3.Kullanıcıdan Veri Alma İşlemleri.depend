@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614754010 source:c:\.tayfun\c++\(kaan) c ve c++\3.kullanýcýdan veri alma Ýþlemleri\main.c
+	<stdio.h>
+	<stdlib.h>
+

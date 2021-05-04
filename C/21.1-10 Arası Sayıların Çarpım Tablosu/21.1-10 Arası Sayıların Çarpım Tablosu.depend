@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614850273 source:c:\.tayfun\c++\(kaan) c ve c++\21.1-10 arasý sayýlarýn Çarpým tablosu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

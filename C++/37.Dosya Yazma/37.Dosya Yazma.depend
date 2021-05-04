@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1616508382 source:d:\.tayfun\c++\(kaan) c ve c++\c++\37.dosya yazma\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615061335 source:c:\.tayfun\c++\(kaan) c ve c++\55.bir sayýnýn tersini bulan fonksiyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

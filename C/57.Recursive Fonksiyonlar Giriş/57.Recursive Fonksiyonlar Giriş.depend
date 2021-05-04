@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615104669 source:c:\.tayfun\c++\(kaan) c ve c++\57.recursive fonksiyonlar giriþ\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

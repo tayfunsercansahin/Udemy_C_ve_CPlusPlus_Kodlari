@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615035202 source:c:\.tayfun\c++\(kaan) c ve c++\46.macro(makro) kullanýmý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

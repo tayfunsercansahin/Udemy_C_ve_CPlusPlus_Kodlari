@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615283222 source:c:\.tayfun\c++\(kaan) c ve c++\87.girilen 100 tane sayýnýn tek ve Çift sayý adetlerini bul\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

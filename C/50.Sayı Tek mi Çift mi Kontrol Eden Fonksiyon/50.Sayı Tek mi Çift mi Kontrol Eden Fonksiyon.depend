@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615040183 source:c:\.tayfun\c++\(kaan) c ve c++\50.sayý tek mi Çift mi kontrol eden fonksiyon\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

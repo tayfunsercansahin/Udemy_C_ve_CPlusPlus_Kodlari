@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614863530 source:c:\.tayfun\c++\(kaan) c ve c++\27.kullanýcýnýn girdiði sayýnýn sayý deðerlerinin toplamý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

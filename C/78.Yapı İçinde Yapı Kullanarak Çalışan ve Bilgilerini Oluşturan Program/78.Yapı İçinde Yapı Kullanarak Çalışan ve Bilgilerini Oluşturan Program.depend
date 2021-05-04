@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615223607 source:c:\.tayfun\c++\(kaan) c ve c++\78.yapý Ýçinde yapý kullanarak Çalýþan ve bilgilerini oluþturan program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

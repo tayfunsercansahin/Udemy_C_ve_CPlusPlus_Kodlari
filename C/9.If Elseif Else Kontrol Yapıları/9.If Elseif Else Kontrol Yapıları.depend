@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614770621 source:c:\.tayfun\c++\(kaan) c ve c++\9.if elseif else kontrol yapýlarý\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

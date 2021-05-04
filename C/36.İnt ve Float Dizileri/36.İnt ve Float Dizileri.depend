@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614948758 source:c:\.tayfun\c++\(kaan) c ve c++\36.Ýnt ve float dizileri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

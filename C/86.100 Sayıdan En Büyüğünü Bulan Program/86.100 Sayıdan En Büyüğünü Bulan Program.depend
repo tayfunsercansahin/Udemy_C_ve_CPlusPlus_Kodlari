@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615282458 source:c:\.tayfun\c++\(kaan) c ve c++\86.100 sayýdan en büyüðünü bulan program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

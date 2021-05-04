@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614778508 source:c:\.tayfun\c++\(kaan) c ve c++\10.cinsiyet ve boy uzunluðuna göre mülakatý geçme durumu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

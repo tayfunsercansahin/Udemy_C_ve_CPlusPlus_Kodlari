@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614861191 source:c:\.tayfun\c++\(kaan) c ve c++\25.do-while döngüsü\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
